@@ -1,0 +1,8 @@
+github.com/go-chi/chi v1.5.5 h1:vOB/HbEMt9QqBqErz07QehcOKHaWFtuj87tTDVz2qXE=
+github.com/go-chi/chi v1.5.5/go.mod h1:C9JqLr3tIYjDOZpzn+BCuxY8z8vmca43EeMgyZt7irw=
+github.com/go-chi/cors v1.2.1 h1:xEC8UT3Rlp2QuWNEr4Fs/c2EAGVKBwy/1vHx3bppil4=
+github.com/go-chi/cors v1.2.1/go.mod h1:sSbTewc+6wYHBBCW7ytsFSn836hqM7JxpglAy2Vzc58=
+github.com/olahol/tsreflect v0.1.1 h1:IzcdZvHbtV9W0VZDIT00ve6MtGt95SzTAr06uPJBrFo=
+github.com/olahol/tsreflect v0.1.1/go.mod h1:HIYCgHTDowOSXqcC2aWAmPFkE456HArLCJ8FompMaRQ=
+github.com/turborpc/turborpc v0.1.2 h1:ipTanc4nEnB7k2EzHTUajQKGQ+8dyTSdjWsQOu34rfE=
+github.com/turborpc/turborpc v0.1.2/go.mod h1:gNKoG9HyqV5xO7+LYaS7LRQc86TyhdDPppNnef6HP+0=

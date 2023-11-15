@@ -1,0 +1,11 @@
+{
+  "name": "@app/backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "",
+  "main": "client.ts",
+  "scripts": {
+    "start": "go run backend.go"
+  },
+  "license": "ISC"
+}

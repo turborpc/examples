@@ -1,0 +1,7 @@
+{
+  "name": "turborpc-example",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
